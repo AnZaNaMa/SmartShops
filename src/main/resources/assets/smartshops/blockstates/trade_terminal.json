@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "smartshops:block/trade_terminal" },
+    "facing=south": { "model": "smartshops:block/trade_terminal", "y": 180 },
+    "facing=west": { "model": "smartshops:block/trade_terminal", "y": 270 },
+    "facing=east": { "model": "smartshops:block/trade_terminal", "y": 90 }
+  }
+}
